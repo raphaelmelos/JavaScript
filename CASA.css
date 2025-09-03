@@ -6,6 +6,7 @@ h1{
 
 div{
     background-color: blanchedalmond;
+    border-radius: 10px;
     
 }
 a{
@@ -15,7 +16,7 @@ a{
 
 }
 img{
-    align-items: center;
+    justify-content: right;
     margin: 10px;
     padding: 10px;
 
