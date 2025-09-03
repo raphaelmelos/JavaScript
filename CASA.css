@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: black 1px solid;
+    
+}
+
+div{
+    background-color: blanchedalmond;
+    
+}
+a{
+    width: 30px;
+    justify-content: space-between;
+    margin: 50px;
+
+}
+img{
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+
+}
