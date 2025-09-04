@@ -5,18 +5,21 @@ html{
 h1{
     text-align: center;
     color: black 1px solid;
-    
+    padding: 20px;
+    border-radius: 10px solid;
 }
 
 div{
     background-color: blanchedalmond;
     border-radius: 10px;
+    text-align: center;
+    margin: 10px;
     
 }
 a{
-    width: 30px;
-    justify-content: space-between;
-    margin: 50px;
+    justify-content:space-between;
+    margin: 97px;
+    text-align: center;
 
 }
 img{
@@ -28,4 +31,8 @@ img{
 
 input{
     text-align: center;
+}
+p{
+    align-items: center;
+    
 }
